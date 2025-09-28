@@ -1,5 +1,5 @@
-# Sales_analysis_using-my_sql_and-power-BIOf course,
-Project Overview
+# Sales_analysis_using-my_sql_and-power-BI
+
 This project analyzes a pizza store's sales data to uncover valuable insights and understand business performance.
 Using MySQL for data storage and management and Power BI for creating interactive dashboards, this analysis turns raw data into meaningful information. The primary goal is to understand sales trends, pizza order trend, and pizza order revinue collection for business decision-making.
 
